@@ -14,7 +14,7 @@
                     <a class="nav-link" href="{{Route('article.create')}}">Crea Articolo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Services</a>
+                    <a class="nav-link" href="{{Route('article.index')}}">Lista degli Articoli</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>

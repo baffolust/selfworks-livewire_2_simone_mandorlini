@@ -1,0 +1,11 @@
+.article-Card{
+    min-height: 100px;
+}
+
+.img-card-article{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+
+}
