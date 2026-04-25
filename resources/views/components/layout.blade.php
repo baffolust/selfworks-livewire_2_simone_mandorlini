@@ -16,7 +16,7 @@
 
     <x-masthead title="{{$title}}"/>
 
-
+    {{$slot}}
 
 </body>
 

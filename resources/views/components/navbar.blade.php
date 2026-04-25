@@ -11,7 +11,7 @@
                     <a class="nav-link" href="{{Route('home')}}">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
+                    <a class="nav-link" href="{{Route('article.create')}}">Crea Articolo</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Services</a>
